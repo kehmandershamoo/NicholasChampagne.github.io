@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment1",
+    "section": "",
+    "text": "For example, in the above Bored Ape, it has the characteristics of: Yellow Background, White Fur, Orange Beanie. Pretty much everything in the picture is pre-specified and generated through an algorithm that puts it all together.\nAnother Example of generative art comes from https://fronkonstin.com where one can generate some plant art that the color of change be changed. In my case, i changed the color of the plant to ‘darkorchid4’ which is a purple shade.\n\n\n\nPlant\n\n\nFinally, here is a graph that was created that is quite funny.\n\n\n\nFox News Pie\n\n\nThis graph wanted to show the percentage of voters that supported certain presidential candidates during the 2012 election. However, the figure choice is just abysmal. Giving Fox news the benefit of the doubt, we might say that the survey only asked if they supported the GOP candidates, not which one they supported over the other, thus allowing the total percentage to not be capped at 100%. That said, this would be better represented as a bar graph, that way you can display the tight race more accurately, as well as get a quick view as the most likely candidate. Putting the data into a pie chart confuses the general audience as it does not convey meaningful comparison between the candidates, as well as pie charts are generally capped at 100%. Therefore the data could be better represented as a bar graph instead of a pie chart."
+  },
+  {
+    "objectID": "assignment2.html",
+    "href": "assignment2.html",
+    "title": "assignment2",
+    "section": "",
+    "text": "Display Text"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicholas Champagne",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
